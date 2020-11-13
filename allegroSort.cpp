@@ -62,7 +62,7 @@ void drawInterface()
     //draws the name of the sorts
     al_draw_text(farry, al_map_rgb(0,255,0), (SCREENWIDTH/4+SCREENWIDTH/8)/2,SCREENHEIGHT/2+SCREENHEIGHT/8-12, ALLEGRO_ALIGN_CENTER, "Quick Sort");
     al_draw_text(farry, al_map_rgb(0,0,255), SCREENWIDTH/2,SCREENHEIGHT/2+SCREENHEIGHT/8-12, ALLEGRO_ALIGN_CENTER, "Merge Sort");
-    al_draw_text(farry, al_map_rgb(255,0,0), SCREENWIDTH/4*2+SCREENWIDTH/16*3+(SCREENWIDTH/4)/2,SCREENHEIGHT/2+SCREENHEIGHT/8-12, ALLEGRO_ALIGN_CENTER, "Selectio Sort");
+    al_draw_text(farry, al_map_rgb(255,0,0), SCREENWIDTH/4*2+SCREENWIDTH/16*3+(SCREENWIDTH/4)/2,SCREENHEIGHT/2+SCREENHEIGHT/8-12, ALLEGRO_ALIGN_CENTER, "Selection Sort");
     al_draw_text(farry,  al_map_rgb(0,255,255), SCREENWIDTH/2,SCREENHEIGHT/2+SCREENHEIGHT/3, ALLEGRO_ALIGN_CENTER, "New Set");
     //draws the buttons for the quick sort
     al_draw_rounded_rectangle(SCREENWIDTH/16, SCREENHEIGHT/2, SCREENWIDTH/4+SCREENWIDTH/16, SCREENHEIGHT/4*3, 10,10,al_map_rgb(255,255,255), 1 );

@@ -32,3 +32,36 @@
 1560471582 source:c:\users\admin\desktop\version\coursework-chris-lin\graphical sorting\hitbox.cpp
 	"functionPrototypes.h"
 
+1605245828 source:c:\users\admin\desktop\version\sorting-visualizer\allegrosort.cpp
+	"functionPrototypes.h"
+
+1560472110 c:\users\admin\desktop\version\sorting-visualizer\functionprototypes.h
+	<iostream>
+	<apvector.h>
+	<time.h>
+	<string>
+	<apstring.h>
+	<fstream>
+	<cstdio>
+	<ctime>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1560471582 source:c:\users\admin\desktop\version\sorting-visualizer\hitbox.cpp
+	"functionPrototypes.h"
+
+1560472077 source:c:\users\admin\desktop\version\sorting-visualizer\sort.cpp
+	"sort.h"
+	<apstring.cpp>
+
+1560470440 c:\users\admin\desktop\version\sorting-visualizer\sort.h
+	"functionPrototypes.h"
+
+1560472014 source:c:\users\admin\desktop\version\sorting-visualizer\sortmain.cpp
+	"sort.h"
+	"functionPrototypes.h"
+
